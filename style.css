@@ -48,6 +48,10 @@ input[type="button"]:hover {
     background-color: rgb(160,160,160);
     color: #fff;
 }
+input[type="text"] {
+    background-color: rgb(47,51,50);
+    width: 218px;
+}
 button {
     border: none;
     background-color: rgb(39,36,36);
